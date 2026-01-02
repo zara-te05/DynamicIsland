@@ -1,4 +1,4 @@
-# 🚀 Dynamic Island for Android
+# Dynamic Island for Android
 
 Una implementación fluida y funcional de la **Dynamic Island** para Android, construida con **Jetpack Compose** y arquitectura basada en servicios. Esta aplicación no solo replica la estética visual, sino que se integra profundamente con el sistema para manejar notificaciones reales y control de medios de aplicaciones externas como Spotify, YouTube y más.
 
