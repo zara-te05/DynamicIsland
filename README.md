@@ -49,4 +49,4 @@ Para un funcionamiento óptimo, se deben otorgar los siguientes permisos en el d
 
 1. Clona el repositorio:
    ```bash
-   git clone 
+   https://github.com/zara-te05/DynamicIsland.git
